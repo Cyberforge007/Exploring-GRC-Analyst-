@@ -5,6 +5,7 @@
 <h2>Description</h2>
 This project involves a walkthrough of the GRC analyst's tasks. The course is unique due to limited training in the GRC analyst role. It is conducted by Dr. Gerald Auger of Simnplycyber, a GRC master. 
 This is the starting point for a career in GRC, which is the main career track.
+More to Come.
 
 
 <!--
